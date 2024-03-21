@@ -20,4 +20,4 @@ Credits: Acknowledge any individuals or organizations that have contributed to y
 License: Specify the license under which your project is distributed. This clarifies the terms under which others can use, modify, and distribute your project.
 
 Contact Information:
-Made by Richard Mabury, my email is richardmabb@hotmail.com
+Made by Richard Mabury, my email is mabury@mail.com
